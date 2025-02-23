@@ -1,0 +1,25 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color: rgb(41, 159, 198);
+}
+
+.launch-time{
+    display: flex;
+
+}
+
+.launch-time div{
+    flex-basis: 100px;
+
+}
+
+.launch-time div p{
+    font-size: 60px;
+    margin-bottom: -14px;
+}
+
+.watch{
+    background-color: greenyellow;
+}
